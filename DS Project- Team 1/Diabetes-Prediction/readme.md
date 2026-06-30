@@ -6,7 +6,7 @@ This project uses a Random Forest Classifier to predict diabetes.
 
 Our Random Forest model achieved the following metrics:
 
-* **Cross-validated AUC:** 0.8388
+
 
 ### Test Set Metrics
 * **Accuracy Score:** 0.7338
