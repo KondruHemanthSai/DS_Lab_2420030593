@@ -14,8 +14,8 @@ Our Random Forest model achieved the following metrics:
 * **Recall Score:** 0.8148
 * **Precision Score:** 0.5867
 
-## Team Members
-
+## Team Members - Team 1
+  
 * Kondru Hemanth Sai - 2420030593
 * Ch Mohit - 2420030090
 * Sukasi Sri Ram Koushik - 2420030232
